@@ -1,6 +1,8 @@
 
 import streamlit as st
 st.header("Welcome")
+import random
+
 # Curated classy color palette
 colors = [
     "Royal Blue", "Emerald Green", "Crimson Red",
@@ -19,13 +21,14 @@ extras = {
         "tall_curvy": ["✔ Statement necklace", "✔ Wavy hairstyle", "✔ High heels"],
         "medium_professional": ["✔ Blazer", "✔ Straight hair", "✔ Smart handbag"],
     }
-
+}
 
 # Outlook-based styling prompts
 styles = {
     "male": {
-        "tall_athletic": []}
+        "tall_athletic": [
             "Futuristic cyberpunk suit with neon circuitry emphasizing shoulders",
+            "Minimalist sm
 git remote add origin https://github.com/Chandu26-chowdary/ch.py.git
 git branch -M main
 git push -u origin main
