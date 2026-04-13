@@ -61,7 +61,3 @@ def generate_ai_styles(outlook, gender):
             f"Outlook: {outlook} | Style: {style} | Color Theme: {color} | {extra}"
         )
     return results
-
-git remote add origin https://github.com/Chandu26-chowdary/ch.py.git
-git branch -M main
-git push -u origin main
