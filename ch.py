@@ -1,5 +1,6 @@
-import random
 
+import streamlit as st
+st.header("Welcome")
 # Curated classy color palette
 colors = [
     "Royal Blue", "Emerald Green", "Crimson Red",
