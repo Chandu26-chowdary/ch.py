@@ -26,7 +26,6 @@ styles = {
     "male": {
         "tall_athletic": [
             "Futuristic cyberpunk suit with neon circuitry emphasizing shoulders",
-            "Minimalist sm
 git remote add origin https://github.com/Chandu26-chowdary/ch.py.git
 git branch -M main
 git push -u origin main
