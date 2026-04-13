@@ -24,7 +24,7 @@ extras = {
 # Outlook-based styling prompts
 styles = {
     "male": {
-        "tall_athletic": [
+        "tall_athletic": []
             "Futuristic cyberpunk suit with neon circuitry emphasizing shoulders",
 git remote add origin https://github.com/Chandu26-chowdary/ch.py.git
 git branch -M main
